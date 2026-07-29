@@ -15,6 +15,9 @@ Actualmente, los datos de consumo de minutos se encuentran dispersos y desestruc
 * Profiling inicial e identificación de inconsistencias (valores nulos, duplicados, registros fuera de formato).
 * Estandarización de campos clave (fechas, variables categóricas, IDs).
 * Estructuración inicial del dataset para exportación.
+
+![image](https://github.com/CristianRomero98/Proyecto-analisis-de-datos/blob/ff3d9391d2f1ed986b6090aa11666d6b9c0f98f0/Tabla%20de%20Excel-%20Datos%20sucios.png)
+
 ![image alt](https://github.com/CristianRomero98/Proyecto-analisis-de-datos/blob/9725209f4fb838a5b7bd172e0a459ccbaed9d03c/Tabla%20de%20excel-%20Datos%20limpios.png)
 ### 2. Almacenamiento y Consultas Estratégicas (SQL)
 * Diseño del modelo relacional y carga de las tablas estructuradas.
