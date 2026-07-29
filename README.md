@@ -6,7 +6,6 @@
 * Profiling inicial e identificación de inconsistencias (valores nulos, duplicados, registros fuera de formato).
 * Estandarización de campos clave (fechas, variables categóricas, IDs).
 * Estructuración inicial del dataset para exportación.
-![image alt](https://github.com/CristianRomero98/Proyecto-analisis-de-datos/blob/9c3f1ae76ac90768aed34ecc29fe5f115282886b/Tabla%20de%20Excel%20con%20datos%20sucios.png) ![image alt](https://github.com/CristianRomero98/Proyecto-analisis-de-datos/blob/7345c5eae4b576cf25a853fdc0945dd98ca013d5/Tabla%20de%20Excel%20con%20datos%20Limpios.png)
 
 ### 2. Almacenamiento y Consultas Estratégicas (SQL)
 * Diseño del modelo relacional y carga de las tablas estructuradas.
