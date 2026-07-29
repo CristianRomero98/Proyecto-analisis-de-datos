@@ -1,3 +1,4 @@
+![image alt](https://github.com/CristianRomero98/Proyecto-analisis-de-datos/blob/9c3f1ae76ac90768aed34ecc29fe5f115282886b/Tabla%20de%20Excel%20con%20datos%20sucios.png)
 # Proyecto-analisis-de-datos-
 ## Herramientas utilizadas: Excel, SQL y Power BI 
 ## Etapas del Proyecto
