@@ -24,6 +24,9 @@ Actualmente, los datos de consumo de minutos se encuentran dispersos y desestruc
 * Creación de consultas SQL para agregación, perfilado demográfico y análisis de patrones de consumo.
 * Optimización de consultas para la posterior conexión con Power BI.
 
+  ![image alt](https://github.com/CristianRomero98/Proyecto-analisis-de-datos/blob/a63beb9c2af7d3a1dafe5a75c68d3223585ad9d4/Consultas%20en%20SQL.png)
+  
+
 ### 3. Modelado, DAX y Tableros Interactivos (Power BI)
 * **Modelado de datos:** Construcción de modelo en estrella (tablas de hechos de consumo + dimensiones de usuarios, contenido, país y tiempo).
 * **Medidas DAX:** Creación de métricas clave como:
