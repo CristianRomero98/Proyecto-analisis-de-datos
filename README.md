@@ -1,6 +1,6 @@
 # Proyecto-analisis-de-datos-
 ## Objetivo del proyecto: 
-na plataforma de contenido en streaming busca comprender a fondo los patrones de reproducción de sus usuarios para optimizar la toma de decisiones estratégicas en adquisición de licencias, marketing regional y experiencia de usuario. 
+Una plataforma de contenido en streaming busca comprender a fondo los patrones de reproducción de sus usuarios para optimizar la toma de decisiones estratégicas en adquisición de licencias, marketing regional y experiencia de usuario. 
 
 Actualmente, los datos de consumo de minutos se encuentran dispersos y desestructurados en reportes crudos de Excel, con inconsistencias en los registros demográficos, formatos de fechas y categorización de títulos.
 
