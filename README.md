@@ -38,6 +38,9 @@ Actualmente, los datos de consumo de minutos se encuentran dispersos y desestruc
 * **Diseño del Dashboard:** Interfaz visual e interactiva con filtros dinámicos por país, género del usuario, categoría del contenido y fecha de estreno.
 ![image alt](https://github.com/CristianRomero98/Proyecto-analisis-de-datos/blob/f56e53259b108154e82e6127183433d5a2f367fe/Vista%20del%20Dashboard%20inicial.png)
 
+![image alt](https://github.com/CristianRomero98/Proyecto-analisis-de-datos/blob/93c7268e20052604b367072c1784689b49608b3a/Conexion%20de%20las%20tablas%20para%20generar%20realciones.png)
+
+
 ---
 
 ## 🗂️ Estructura del Dataset
