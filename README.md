@@ -5,9 +5,12 @@ na plataforma de contenido en streaming busca comprender a fondo los patrones de
 Actualmente, los datos de consumo de minutos se encuentran dispersos y desestructurados en reportes crudos de Excel, con inconsistencias en los registros demográficos, formatos de fechas y categorización de títulos.
 
 **El objetivo central del proyecto es:**
-## Herramientas utilizadas: Excel, SQL y Power BI 
-## Etapas del Proyecto
+1. **Sanear y depurar** la base de datos cruda para garantizar la integridad de la información.
+2. **Centralizar y estructurar** los registros en un modelo relacional en SQL.
+3. **Analizar la interacción** entre las variables clave: *país, género del usuario (Hombre/Mujer), género del contenido (Drama, Ciencia Ficción, etc.), fecha de lanzamiento, tipo de dispositivo utilizado (TV/Celular)* e *IDs de contenido/usuario*.
+4. **Diseñar un dashboard interactivo en Power BI** que transforme estos datos en métricas de consumo (KPIs) e insights de negocio accionables.
 
+## Etapas del Proyecto
 ### 1. Limpieza y Preparación de Datos (Excel)
 * Profiling inicial e identificación de inconsistencias (valores nulos, duplicados, registros fuera de formato).
 * Estandarización de campos clave (fechas, variables categóricas, IDs).
